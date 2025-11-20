@@ -1,0 +1,10 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+button {
+    padding: 5px 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
