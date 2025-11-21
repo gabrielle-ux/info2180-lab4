@@ -1,10 +1,43 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
     padding: 20px;
+    color: black;
+    scroll-behavior: unset;
+}
+
+h1{
+    background-color: rgb(75, 149, 195);
+    width:110%;
+    padding: 20px 0px;
+    text-align: center;
+    
+}
+
+h3{
+   color: black;
+}
+
+::placeholder{
+     font-family:Arial, Helvetica, sans-serif;
+     text-align: center;
+}
+
+input{
+    width: 90%;
+    padding:10px 0px;
+
+}
+
+h5{
+   font-family:Arial, Helvetica, sans-serif;
+   color: black;
+   text-align:left;
 }
 
 button {
     padding: 5px 10px;
     font-size: 15px;
     cursor: pointer;
+    color: rgb(253, 253, 253);
+    background-color: red;
 }
